@@ -1,3 +1,4 @@
+// Program to calculate the palindrome number in java 
 import java.util.Scanner;
 public class palindrome {
     public static void main(String a[]){
