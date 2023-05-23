@@ -1,3 +1,4 @@
+// Java program to find the qudatric equation result either positive , negative or zero
 public class quad {
     public static void main(String s[]){
        
