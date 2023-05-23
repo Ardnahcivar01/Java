@@ -1,3 +1,4 @@
+// java program for matrix multiplication 
 public class matrix_multiplication {
     public static void main(String s[]) {
         int mat1[][] = { { 1, 2, 3 }, { 4, 5, 6 }, { 7, 8, 9 } };
