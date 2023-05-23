@@ -1,3 +1,4 @@
+// Java program for linear search 
 public class linear {
     public static int linear(int[] arr,int key){
         for(int i=0;i<arr.length;i++){
