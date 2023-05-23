@@ -1,3 +1,4 @@
+// Constructor in Java programming which base on employee name,salary and id_no program
 import java.util.Scanner;
 
 class employee {
