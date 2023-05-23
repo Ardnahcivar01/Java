@@ -1,3 +1,5 @@
+// This program for bubble sorting using java 
+
 public class array {
 public static void main(String s[]){
     int arr[] = {12,1,2,4,554,445};
