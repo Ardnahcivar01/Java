@@ -1,3 +1,4 @@
+// Java program to find the factorial of the number using recursion approach
 import java.util.Scanner;
 public class factorial {
     public static int fact(int n){
