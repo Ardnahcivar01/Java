@@ -1,3 +1,4 @@
+// Program to understand the concept of the class java programming 
 import java.util.Scanner;
 class emp{
     String name ;
